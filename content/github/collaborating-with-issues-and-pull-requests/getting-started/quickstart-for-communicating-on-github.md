@@ -1,4 +1,5 @@
 ---
+I2fa7617fc72f772b5c0b20003e4f82fb3f605659
 title: Quickstart for communicating on GitHub
 intro: 'You can discuss specific projects and changes, as well as broader ideas or team goals, using different types of discussions on {% data variables.product.product_name %}.'
 miniTocMaxHeadingLevel: 4
